@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Classes - Definitely Science</title>
+    
+	
+	
+{{head}}
+
+	
+
+    <link rel='stylesheet' href='/assets/styles/classes.css'>
+</head>
+
+<body>
+    
+	
+	
+{{navbar}}
+
+
+    <h1 id="topText"></h1>
+
+    <div id="searchcatParent">
+        <div id="searchcat">
+            <input type="text" name="search" value="" autocomplete="off" id="searchBar" placeholder="Search">
+        </div>
+
+        <div class="adsrc adhorz" style="text-align:center;"></div>
+
+        <div id="filteredGames"></div>
+
+        <div id="noSearch" style="display:none">
+            <p>You search terms does not match any games...</p>
+        </div>
+
+        <div id="games"></div>
+    </div>
+
+    
+{{footer}}
+
+
+    <script>
+        window.category = "{{classesName}}";
+    </script>
+
+    <script src="/assets/scripts/classes.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,68 @@
+[
+   {
+      "name":"Google",
+      "image":"/assets/images/icons/apps/a2.png",
+	  "type":"proxy",
+      "url":"https://www.google.com/"
+   },
+   {
+      "name":"DuckDuckGo",
+      "image":"/assets/images/icons/apps/duckduckgo.jpg",
+	  "type":"proxy",
+      "url":"https://duckduckgo.com/"
+   },
+   {
+      "name":"Ai Chat",
+      "image":"/assets/images/icons/apps/a3.png",
+      "type":"proxy",
+      "url":"https://deepai.org/chat"
+   },
+   {
+      "name":"Humanize AI Text",
+      "image":"/assets/images/icons/apps/unaimytext.jpg",
+      "type":"proxy",
+      "url":"https://unaimytext.com/"
+   },
+   {
+      "name":"Geforce Now",
+      "image":"/assets/images/icons/apps/a1.png",
+	  "type":"proxy",
+      "url":"https://www.nvidia.com/en-us/geforce-now/"
+   },
+   {
+      "name":"Kiddle Search",
+      "image":"/assets/images/icons/apps/a4.png",
+      "type":"proxy",
+      "url":"https://www.kiddle.co/"
+   },
+   {
+      "name":"Tik Tok",
+      "image":"/assets/images/icons/apps/a7.png",
+      "type":"proxy",
+      "url":"https://tiktok.com/"
+   },
+   {
+      "name":"Mathway",
+      "image":"/assets/images/icons/apps/a5.png",
+      "type":"proxy",
+      "url":"https://www.mathway.com/"
+   },
+   {
+      "name":"Online Games io",
+      "image":"/assets/images/icons/apps/a6.png",
+      "type":"proxy",
+      "url":"https://www.onlinegames.io/"
+   },
+   {
+      "name":"Unblocked Games",
+      "image":"/assets/images/icons/apps/a8.png",
+      "type":"proxy",
+      "url":"https://d11jzht7mj96rr.cloudfront.net/"
+   },
+   {
+      "name":"Youtube",
+      "image":"/assets/images/icons/apps/a9.png",
+      "type":"proxy",
+      "url":"https://www.youtube.com/"
+   }
+]
